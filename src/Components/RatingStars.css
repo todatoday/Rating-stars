@@ -1,0 +1,19 @@
+.ratingStars{
+    margin: 200px 400px;
+    text-align: center;
+}
+
+.star{
+    font-size: 45px;
+    cursor: pointer;
+    transition: color 200ms;
+    padding: 3px;
+}
+
+input[type="radio"]{
+    display: none;
+}
+
+form {
+    
+}
